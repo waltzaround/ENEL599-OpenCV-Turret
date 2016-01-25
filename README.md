@@ -1,5 +1,5 @@
-# TurretTest
-test C++ code
+Ignore everything here for now. Missing the arduino code and fritzing files... Will find it when I have time.
+
 
 Prerequisites:
 - Requires an Arduino Uno + DC Motor + Webcam
