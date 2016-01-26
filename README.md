@@ -1,4 +1,4 @@
-# enel599 OpenCV Face-Detecting Turret
+# ENEL599 OpenCV Face-Detecting Turret
 
 Enough schematics and code to put together a basic face-detecting sentry gun. The frame I originally built to house this consistently destroyed itself without fail so I'll leave it to you to improvise if you choose to fork this project. The system is built using a webcam, two speakers, a DC motor, an arduino and a PC. The system starts up by sweeping the room the turret is in using the motor to move the webcam. If the webcam detects a face, the speakers will start making PEW PEW noises and the motor will stop until no faces are detected, and continue sweeping the room. The original plan was to use a NERF gun, but the gearbox melted... Leaving me to rejig the code to use speakers. :P
 
