@@ -1,9 +1,9 @@
 /* 
-Project: Physical Computing Assignment
+Project: Physical Computing
 By Walter Lim
 Version 3 Turret
 
-Searches for faces. if face detected, sends case c to pc
+Searches for faces. if face detected, activates sentry gun noises
 
 Contains modified code from Greg Borenstein under the OpenCV for Processing Project https://github.com/atduskgreg/opencv-processing
 
@@ -75,3 +75,4 @@ void draw() {
 void captureEvent(Capture c) {
   c.read();
 }
+
